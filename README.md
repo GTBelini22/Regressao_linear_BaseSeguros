@@ -12,7 +12,7 @@
 
 # Sobre o repositório
 
-É um repositório usado para armazenar o Desafio de  **Regressão Linear** da formação em dados da escola DNC, com esse desafio sendo a previsão do valor de seguros de imóveis usando a a modelos de machine learning com Tunning, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
+É um repositório usado para armazenar o Desafio de  **Machine Learning - Regressão** da formação em dados da escola DNC, com esse desafio sendo a previsão do valor de seguros de imóveis usando a a modelos de machine learning com Tunning, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
 # Modelos de aprendizagem utilizados
 - RandomForestRegressor
