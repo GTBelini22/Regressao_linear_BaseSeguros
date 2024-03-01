@@ -23,7 +23,7 @@
 
 Foi utlizado o GridSearch para encontrar metricas ainda melhores para os modeloscitados acima, ao final foram plotados as métricas encontradas
 
-![Dashboard BI](https://github.com/GTBelini22/DashBoard_Producao_PowerBI-/blob/main/assets/Dashboard%20Producao.png)
+![Dashboard BI](https://github.com/GTBelini22/Regressao_linear_BaseSeguros/blob/main/assets/Histplot.png)
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
