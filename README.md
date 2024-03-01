@@ -12,16 +12,25 @@
 
 # Sobre o repositório
 
-É um repositório usado para armazenar o Desafio de  **Regressão Linear** da formação em dados da escola DNC, com esse desafio sendo a previsão do valor de seguros de imóveis usando a a Regressão linerar, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
+É um repositório usado para armazenar o Desafio de  **Regressão Linear** da formação em dados da escola DNC, com esse desafio sendo a previsão do valor de seguros de imóveis usando a a modelos de machine learning com Tunning, disponibilizado pela equipe da [DNC](https://www.escoladnc.com.br/ "Site da DNC")
 
+# Modelos de aprendizagem utilizados
+- RandomForestRegressor
+- GradientBoostingRegressor
+- AdaBoostRegressor
+- Regressão Linear
+- GridSearch
+
+Foi utlizado o GridSearch para encontrar metricas ainda melhores para os modeloscitados acima, ao final foram plotados as métricas encontradas
 
 ![Dashboard BI](https://github.com/GTBelini22/DashBoard_Producao_PowerBI-/blob/main/assets/Dashboard%20Producao.png)
 
-# Ferramentas e funções
-- Power BI
-- Criação de Medidas
-- Gráficos dinâmicos
-- Estilização com icones customizáveis
+# Tecnologias utilizadas / Bibliotecas
+- Pandas
+- Sklearn
+- Matplotlib
+- Numpy
+- Seaborn
 
 
 # Autor
@@ -29,7 +38,3 @@
 Gustavo Torres Belini
 
 https://www.linkedin.com/in/gustavo-belini2200224055/
-
-# Portifólio de Dashboards Completo
-https://sites.google.com/view/portifolio-gustavo-power-bi/in%C3%ADcio
-
